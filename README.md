@@ -1,6 +1,6 @@
 ## Web Page for Fitness CLub
 
-_[ We've tried build site for all screen size without using any heavy CSS library such as Bootstrap or Material CSS]_
+
 
 Live Url : https://anodeus.github.io/fitnessclub/
 
