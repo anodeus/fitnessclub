@@ -19,7 +19,7 @@ This is a commercial based website, created by Abhi Singh.
   
 ## Screenshots
 
-![App Part](https://github.com/anodeus/fitnesclub/blob/master/resources/1.png)
+![App Part](https://github.com/anodeus/fitnessclub/blob/main/resources/1.png)
 ![App Part](https://github.com/anodeus/ScreenShots/blob/master/screenshots/2.png)
 ![App Part](https://github.com/anodeus/ScreenShots/blob/master/screenshots/3.png)
 ![App Part](https://github.com/anodeus/ScreenShots/blob/master/screenshots/4.png)
