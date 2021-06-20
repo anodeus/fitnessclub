@@ -20,14 +20,14 @@ This is a commercial based website, created by Abhi Singh.
 ## Screenshots
 
 ![App Part](https://github.com/anodeus/fitnessclub/blob/main/resources/1.png)
-![App Part](https://github.com/anodeus/ScreenShots/blob/master/screenshots/2.png)
-![App Part](https://github.com/anodeus/ScreenShots/blob/master/screenshots/3.png)
-![App Part](https://github.com/anodeus/ScreenShots/blob/master/screenshots/4.png)
-![App Part](https://github.com/anodeus/ScreenShots/blob/master/screenshots/5.png)
-![App Part](https://github.com/anodeus/ScreenShots/blob/master/screenshots/6.png)
-![App Part](https://github.com/anodeus/ScreenShots/blob/master/screenshots/7.png)
-![App Part](https://github.com/anodeus/ScreenShots/blob/master/screenshots/8.png)
-![App Part](https://github.com/anodeus/ScreenShots/blob/master/screenshots/9.png)
+![App Part](https://github.com/anodeus/fitnessclub/blob/main/resources/2.png)
+![App Part](https://github.com/anodeus/fitnessclub/blob/main/resources/3.png)
+![App Part](https://github.com/anodeus/fitnessclub/blob/main/resources/4.png)
+![App Part](https://github.com/anodeus/fitnessclub/blob/main/resources/5.png)
+![App Part](https://github.com/anodeus/fitnessclub/blob/main/resources/6.png)
+![App Part](https://github.com/anodeus/fitnessclub/blob/main/resources/7.png)
+![App Part](https://github.com/anodeus/fitnessclub/blob/main/resources/8.png)
+![App Part](https://github.com/anodeus/fitnessclub/blob/main/resources/9.png)
 
 ## Features
 
@@ -43,7 +43,7 @@ This is a club where people can connect all over the world through their registr
 
 ## Logo
 
-![Logo](https://github.com/anodeus/ScreenShots/blob/master/screenshots/logo.png)
+![Logo](https://github.com/anodeus/fitnessclub/blob/main/resources/logo.png)
   
     
 ## Contact
